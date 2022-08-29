@@ -1,0 +1,1 @@
+The task of this project is to create a main page that links 3 different recipes. In this prject I was able to demonstrate HTML's capability to reference images, reference local links, reference absolute links, and it's abilitity to create different types of list. 
